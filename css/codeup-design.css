@@ -1,0 +1,39 @@
+body{
+    background-color: #e6e6e6;
+}
+
+.img{
+    position: relative;
+    width: 105px;
+    height: 105px;
+    top: -40px;
+
+}
+
+
+nav {
+    margin-top: 30px;
+}
+nav li{
+    float: right;
+}
+h1, h3{
+    text-align: center;
+    font-family: 'Anton', sans-serif ;
+}
+.circle{
+    border-radius: 50%;
+    height:105px;
+    width: 105px;
+    display: block;
+    margin: 10px;
+
+
+}
+.picture{
+    width: 105px;
+    height: 105px;
+    text-align: center;
+
+
+
