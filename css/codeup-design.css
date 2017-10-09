@@ -1,5 +1,5 @@
 body{
-    background-color: #e6e6e6;
+    background-color: #f0f0f0;
 }
 
 .img{
@@ -25,8 +25,8 @@ h1, h3{
     border-radius: 50%;
     height:105px;
     width: 105px;
-    display: block;
-    margin: 10px;
+    display: inline;
+    margin: 4px;
 
 
 }
@@ -34,6 +34,48 @@ h1, h3{
     width: 105px;
     height: 105px;
     text-align: center;
-
-
-
+}
+.pic{
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+hr{
+    border: 2px solid #e6e6e6;
+   width: 60%;
+}
+.box{
+    width:200px;
+    height:130px;
+    border: solid 2px #e6e6e6;
+}
+.apple{
+    width: 200px;
+    height:130px;
+}
+img{
+    width: 65%;
+}
+.tinycircle{
+    float: right;
+    position: relative;
+    top:-30px;
+    width: 18px;
+    height: 18px;
+    background-color: red;
+    border-radius: 18px;
+    font-size: 12px;
+    font-family: "Anton";
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
