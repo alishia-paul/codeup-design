@@ -54,28 +54,79 @@ hr{
     height:130px;
 }
 img{
-    width: 65%;
+    width: 250px;
+    height: 175px;
+    vertical-align: 0;
 }
 .tinycircle{
     float: right;
     position: relative;
+    right: 55px;
     top:-30px;
     width: 18px;
     height: 18px;
-    background-color: red;
-    border-radius: 18px;
+    border-radius: 9px;
     font-size: 12px;
-    font-family: "Anton";
 }
 .red{
-    background-color: red;
+    background-color: #e6563b;
+    margin: 3px;
+
 }
 .orange{
-    background-color: orange;
+    background-color: #eb9d3a;
+    margin: 3px;
 }
 .green{
-    background-color: green;
+    background-color: #7cb06c;
+    margin: 3px;
 }
 .blue{
-    background-color: blue;
+    background-color: #00aba9;
+    margin: 3px;
+}
+
+.work{
+    position: relative;
+    right: -60px;
+}
+.word{
+    position: relative;
+    right: 65px;
+}
+.word-2{
+
+    position: relative;
+    right: 400px;
+}
+
+.smallpics{
+    width: 48px;
+    height: 48px;
+    padding-bottom: 5px;
+
+
+}
+
+h4{
+    font-family: Anton;
+    text-align: center;
+}
+
+h3{
+
+    font-family: 'Anton', sans-serif;
+    text-align: left;
+
+}
+
+.side-text {
+    margin-top: 0;
+}
+.fa-twitter{
+    float: left;
+    color:#00CCFF;
+ }
+.side{
+    text-align: center;
 }
